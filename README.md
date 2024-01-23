@@ -5,27 +5,36 @@ Try Breath Smart Recorder offers effortless lung recovery, respiratory managemen
 
 ![image](https://github.com/ezoxygenTeam/Try-Breath/blob/main/demo%20photo/20231123-poster.jpg)
 
-# Key Features:
-1. Smart Technology: Seamlessly tracks and records your breathing exercises, offering insightful feedback to enhance your training routine.
-2. User-Friendly App: Comes with the intuitive Try Breath app, simplifying your journey towards better lung capacity and respiratory health.
-3. Comprehensive Training: Aimed at improving your breathing through a series of tailored exercises, ensuring a gradual and impactful enhancement of your respiratory muscles.
-4. Hygienic & Safe: Designed with personal hygiene in mind, the device ensures a safe and clean experience during every use.
-5. Start your journey to better breathing today with Try Breath – your personal breathing coach!
+# What is the Try-breath feature?
 
 ### Innovative Ultrasonic Data Transmission Technology:  
 We will be showcasing our breakthrough ultrasonic data transmission technology, a new form of wireless communication that offers more secure and efficient data transfer in various environments.
 ### Digital Respiratory Health Solutions:  
 Explore our revolutionary digital respiratory health solutions, a medical technological advancement aimed at improving respiratory health management through advanced digital tools.
 
-# Usage & Application Information
+### Key Features:
+1. Smart Technology: Seamlessly tracks and records your breathing exercises, offering insightful feedback to enhance your training routine.
+2. User-Friendly App: Comes with the intuitive Try Breath app, simplifying your journey towards better lung capacity and respiratory health.
+3. Comprehensive Training: Aimed at improving your breathing through a series of tailored exercises, ensuring a gradual and impactful enhancement of your respiratory muscles.
+4. Hygienic & Safe: Designed with personal hygiene in mind, the device ensures a safe and clean experience during every use.
+5. Start your journey to better breathing today with Try Breath – your personal breathing coach!
+
+# Mobile Application Information
 
 We provide an app compatible with both iOS and Android systems. The Try-breath APP enhances your breathing exercises with the Try-flow Incentive Spirometer by effectively quantifying data and recording it on your phone. The app also allows you to set goals and sends reminders to help you achieve your daily target number of breaths and inhalation volume.
-
 #### The APP website address:  
 iOS: https://apps.apple.com/tw/app/try-breath/id6443699394  
 Android: https://play.google.com/store/apps/details?id=com.maxosoft.incentive_spirometer&hl=en_US  
 
+# Website Application Information
+We now offer a web-based application that you can access on your computer (equipped with a microphone). Simply visit our website, complete a quick registration, and you'll be able to use the Try-Breath application directly on your computer to measure and record your data!
 
+Website:  https://eztri-2c76d.web.app/  
+
+![image](https://github.com/ezoxygenTeam/Try-Breath/blob/main/demo%20photo/website_demo.png)
+
+
+# The Usage Information
 ### The demonstration video:
 Chinese version: https://www.youtube.com/watch?v=y8YPKx7i2dc  
 English version: https://www.youtube.com/watch?v=znj28Z88hBw  
