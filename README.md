@@ -1,6 +1,7 @@
 # Try-Breath Smart Recorder - Your Smart Respiratory Trainer
 
-Unlock your breathing potential with Try Breath, the innovative smart recorder meticulously crafted to revolutionize your respiratory training. Try Breath is not just a device; it's your partner in achieving optimal lung performance and overall well-being.
+For over 40 years, the Incentive Spirometer has been a trusted medical tool. Genius Holdings revolutionizes it with ultrasound technology for smartphone integration.
+Try Breath Smart Recorder offers effortless lung recovery, respiratory management, and sports performance enhancement, ensuring optimized breathing without complex setups.
 
 ![image](https://github.com/ezoxygenTeam/Try-Breath/blob/main/demo%20photo/20231123-poster.jpg)
 
@@ -11,15 +12,30 @@ Unlock your breathing potential with Try Breath, the innovative smart recorder m
 4. Hygienic & Safe: Designed with personal hygiene in mind, the device ensures a safe and clean experience during every use.
 5. Start your journey to better breathing today with Try Breath – your personal breathing coach!
 
-# Usage Information
+### Innovative Ultrasonic Data Transmission Technology:  
+We will be showcasing our breakthrough ultrasonic data transmission technology, a new form of wireless communication that offers more secure and efficient data transfer in various environments.
+### Digital Respiratory Health Solutions:  
+Explore our revolutionary digital respiratory health solutions, a medical technological advancement aimed at improving respiratory health management through advanced digital tools.
+
+# Usage & Application Information
 
 We provide an app compatible with both iOS and Android systems. The Try-breath APP enhances your breathing exercises with the Try-flow Incentive Spirometer by effectively quantifying data and recording it on your phone. The app also allows you to set goals and sends reminders to help you achieve your daily target number of breaths and inhalation volume.
 
-#### Here is the APP website address:  
+#### The APP website address:  
 iOS: https://apps.apple.com/tw/app/try-breath/id6443699394  
 Android: https://play.google.com/store/apps/details?id=com.maxosoft.incentive_spirometer&hl=en_US  
-Office website: https://try-breath.com/
 
-### Here is the demonstration video:
+
+### The demonstration video:
 Chinese version: https://www.youtube.com/watch?v=y8YPKx7i2dc  
 English version: https://www.youtube.com/watch?v=znj28Z88hBw  
+
+### The Office website:
+Office website: https://try-breath.com/  
+Linkedin: https://www.linkedin.com/company/ezoxygen/  
+Facebook: https://www.facebook.com/ezoxygen  
+How to buy Try-Breath recorder: https://shop.greattree.com.tw/product?SaleID=2306120031  
+
+### Contact us
+service@genius-gh.com
+
