@@ -39,12 +39,18 @@ Website:  https://eztri-2c76d.web.app/
 Chinese version: https://www.youtube.com/watch?v=y8YPKx7i2dc  
 English version: https://www.youtube.com/watch?v=znj28Z88hBw  
 
-### The Office website:
+### The Office-related links:
 Office website: https://try-breath.com/  
 Linkedin: https://www.linkedin.com/company/ezoxygen/  
 Facebook: https://www.facebook.com/ezoxygen  
 How to buy Try-Breath recorder: https://shop.greattree.com.tw/product?SaleID=2306120031  
 
+### Other related links:
+Financial related: https://pubmed.ncbi.nlm.nih.gov/30175643/  
+Medical related: https://www.ncbi.nlm.nih.gov/books/NBK572114/  
+
 ### Contact us
 service@genius-gh.com
+
+
 
