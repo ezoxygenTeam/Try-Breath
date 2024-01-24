@@ -29,8 +29,9 @@ Explore our revolutionary digital respiratory health solutions, a medical techno
 
 We provide an app compatible with both iOS and Android systems. The Try-breath APP enhances your breathing exercises with the Try-flow Incentive Spirometer by effectively quantifying data and recording it on your phone. The app also allows you to set goals and sends reminders to help you achieve your daily target number of breaths and inhalation volume.
 #### The APP website address:  
-iOS: https://apps.apple.com/tw/app/try-breath/id6443699394  
-Android: https://play.google.com/store/apps/details?id=com.maxosoft.incentive_spirometer&hl=en_US  
+[APP for iOS](https://apps.apple.com/tw/app/try-breath/id6443699394)  
+
+[APP for Android](https://play.google.com/store/apps/details?id=com.maxosoft.incentive_spirometer&hl=en_US)  
 
 ![picture](https://github.com/ezoxygenTeam/Try-Breath/blob/main/demo%20photo/APP_link.png)
 
@@ -44,8 +45,9 @@ Website:  https://eztri-2c76d.web.app/
 
 # The Usage Information
 ### The demonstration video:
-Chinese version: https://www.youtube.com/watch?v=y8YPKx7i2dc  
-English version: https://www.youtube.com/watch?v=znj28Z88hBw  
+[如何使用Try-Breath智慧紀錄器](https://www.youtube.com/watch?v=y8YPKx7i2dc)  
+
+[How to use Try-Breath Smart Recorder](https://www.youtube.com/watch?v=znj28Z88hBw)  
 
 ### The Office-related links:
 Office website: https://try-breath.com/  
