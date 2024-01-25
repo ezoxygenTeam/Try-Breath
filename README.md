@@ -60,7 +60,7 @@ Financial related: https://pubmed.ncbi.nlm.nih.gov/30175643/
 Medical related: https://www.ncbi.nlm.nih.gov/books/NBK572114/  
 
 ### Contact us
-service@genius-gh.com
+<service@genius-gh.com>
 
 
 
