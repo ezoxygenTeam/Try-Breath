@@ -55,15 +55,27 @@ Website:  https://eztri-2c76d.web.app/
 
 [How to use Try-Breath Smart Recorder](https://www.youtube.com/watch?v=znj28Z88hBw)  
 
+<br>
+
+### Article[Under Review]
+[Try-Breath Article](https://github.com/ezoxygenTeam/Try-Breath/blob/main/Try-Breath%20%5BS111149%5D.pdf)
+
+<br>
+
 ### The Office-related links:
 Office website: https://try-breath.com/  
 Linkedin: https://www.linkedin.com/company/ezoxygen/  
 Facebook: https://www.facebook.com/ezoxygen  
 How to buy Try-Breath recorder: https://shop.greattree.com.tw/product?SaleID=2306120031  
 
+<br>
+
 ### Other related links:
+
 Financial related: https://pubmed.ncbi.nlm.nih.gov/30175643/  
 Medical related: https://www.ncbi.nlm.nih.gov/books/NBK572114/  
+
+<br>
 
 ### Contact us
 <service@genius-gh.com>
